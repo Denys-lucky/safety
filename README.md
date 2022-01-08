@@ -1,1 +1,1 @@
-> https://denys-lucky.github.io/safety/
+> https://Develop-05.github.io/safety/

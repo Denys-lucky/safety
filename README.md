@@ -1,1 +1,1 @@
-> https://Develop-05.github.io/safety/
+> https://develop-05.github.io/safety/
